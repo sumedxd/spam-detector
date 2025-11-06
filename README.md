@@ -1,3 +1,4 @@
+
 Spam SMS Detector
 Overview
 This is a simple machine learning project that detects spam SMS messages using Python. It trains a model on a public dataset and predicts whether a given SMS is spam or not.
@@ -46,3 +47,4 @@ Example
 text
 Input message: "Congrats! You won a free prize. Click now!"
 Prediction: spam
+
